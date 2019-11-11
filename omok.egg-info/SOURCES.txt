@@ -1,0 +1,14 @@
+README.md
+setup.py
+omok/__init__.py
+omok/boardstate.py
+omok/evaluate.py
+omok/game.py
+omok/gomoku.py
+omok/gomoku_ai.py
+omok/main.py
+omok/render.py
+omok.egg-info/PKG-INFO
+omok.egg-info/SOURCES.txt
+omok.egg-info/dependency_links.txt
+omok.egg-info/top_level.txt
